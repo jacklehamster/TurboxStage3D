@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="paris24.turbox.Turbox"/>
+    <classEntry path="paris24.turbox.grafix.GrafixDigger"/>
+    <classEntry path="paris24.turbox.grafix.GrafixProcessor"/>
+    <classEntry path="paris24.turbox.utils.Clock"/>
+    <classEntry path="paris24.turbox.grafix.Spritex"/>
+    <classEntry path="paris24.turbox.display.AdvancedMovieClip"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
